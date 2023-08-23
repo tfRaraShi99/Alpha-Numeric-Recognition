@@ -5,4 +5,4 @@ A web based paint application establishes the interaction between the model and 
 
 Preview of model working through the pain application.
 
-![ezgif com-video-to-gif](https://github.com/tfRaraShi99/Alpha-Numeric-Recognition/assets/128311532/a14cd8ee-462f-4dc4-8c09-df1dd9829ef2)
+![sutrishnaweb01 loca lt - Google Chrome 2023-08-22 22-17-08](https://github.com/tfRaraShi99/Alpha-Numeric-Recognition/assets/128311532/ef48ffca-50fd-4ed5-b6f3-70a1c326b62a)
