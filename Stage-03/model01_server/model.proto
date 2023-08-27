@@ -1,0 +1,17 @@
+model_config_list {
+  config {
+    name: "lenet5"
+    base_path: "/home/juyelsd99/Project01/model01_server/lenet5"
+    model_platform: "tensorflow"
+  }
+  config {
+    name: "lenetW5"
+    base_path: "/home/juyelsd99/Project01/model01_server/lenetW5"
+    model_platform: "tensorflow"
+  }
+  config {
+    name: "lenet_argmax01"
+    base_path: "/home/juyelsd99/Project01/model01_server/lenet_argmax01"
+    model_platform: "tensorflow"
+  }
+}
