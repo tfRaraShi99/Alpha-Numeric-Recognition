@@ -15,8 +15,9 @@
 - https://www.kaggle.com/competitions/digit-recognizer
 
 ## Preview of the working
+![sutrishnaweb01 loca lt - Google Chrome 2023-08-22 22-17-08](https://github.com/tfRaraShi99/Alpha-Numeric-Recognition/assets/128311532/b351482f-979a-461e-844f-6bcd894ffbc4)
 
-file:///C:/Users/zoedb/Downloads/sutrishnaweb01.loca.lt%20-%20Google%20Chrome%202023-08-22%2022-17-08.gif
+
 ## Acknowledgements
 
  - Gradient-based learning applied to document recognition
